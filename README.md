@@ -1,3 +1,5 @@
-GITHUB WORKSHOP
-This is a repo for the github workshop and exercises.
-
+# Vobango
+Learning coding since spring 2016.
+## Resources
+- [Codecamp](https://www.freecodecamp.com/vobango)
+- [Codecademy](http://www.codecademy.com/learn)
